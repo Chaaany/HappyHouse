@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+	<item>
+		<price> 94,000</price>
+		<built>2007</built>
+		<year>2019</year>
+		<dong> 필운동</dong>
+		<apt>신동아블루아광화문의 꿈</apt>
+		<month>12</month>
+		<day>26</day>
+		<area>107.5</area>
+		<landnum>254</landnum>
+		<code>11110</code>
+		<floor>7</floor>
+	</item>
+	<item>
+		<price> 125,000</price>
+		<built>2008</built>
+		<year>2019</year>
+		<dong> 사직동</dong>
+		<apt>광화문풍림스페이스본(101동~105동)</apt>
+		<month>12</month>
+		<day>3</day>
+		<area>126.34</area>
+		<landnum>9</landnum>
+		<code>11110</code>
+		<floor>4</floor>
+	</item>
+	<item>
+		<price> 159,000</price>
+		<built>2008</built>
+		<year>2019</year>
+		<dong> 사직동</dong>
+		<apt>광화문풍림스페이스본(106동)</apt>
+		<month>12</month>
+		<day>16</day>
+		<area>153.42</area>
+		<landnum>9-1</landnum>
+		<code>11110</code>
+		<floor>11</floor>
+	</item>
+<item>
+<price> 130,000</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 사직동</dong>
+<apt>광화문풍림스페이스본(101동~105동)</apt>
+<month>12</month>
+<day>18</day>
+<area>108.55</area>
+<landnum>9</landnum>
+<code>11110</code>
+<floor>5</floor>
+</item>
+<item>
+<price> 155,000</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 사직동</dong>
+<apt>광화문풍림스페이스본(101동~105동)</apt>
+<month>12</month>
+<day>23</day>
+<area>159.01</area>
+<landnum>9</landnum>
+<code>11110</code>
+<floor>9</floor>
+</item>
+<item>
+<price> 160,000</price>
+<built>2004</built>
+<year>2019</year>
+<dong> 내수동</dong>
+<apt>경희궁의아침3단지</apt>
+<month>12</month>
+<day>6</day>
+<area>149</area>
+<landnum>72</landnum>
+<code>11110</code>
+<floor>16</floor>
+</item>
+<item>
+<price> 30,500</price>
+<built>2003</built>
+<year>2019</year>
+<dong> 익선동</dong>
+<apt>현대뜨레비앙</apt>
+<month>12</month>
+<day>12</day>
+<area>48.54</area>
+<landnum>55</landnum>
+<code>11110</code>
+<floor>2</floor>
+</item>
+<item>
+<price> 72,000</price>
+<built>2006</built>
+<year>2019</year>
+<dong> 인의동</dong>
+<apt>효성쥬얼리시티</apt>
+<month>12</month>
+<day>14</day>
+<area>84.64</area>
+<landnum>48-2</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 35,000</price>
+<built>2004</built>
+<year>2019</year>
+<dong> 이화동</dong>
+<apt>(9-1)</apt>
+<month>12</month>
+<day>26</day>
+<area>84.42</area>
+<landnum>9-1</landnum>
+<code>11110</code>
+<floor>4</floor>
+</item>
+<item>
+<price> 17,000</price>
+<built>2011</built>
+<year>2019</year>
+<dong> 충신동</dong>
+<apt>CS타워</apt>
+<month>12</month>
+<day>6</day>
+<area>21.94</area>
+<landnum>62-2</landnum>
+<code>11110</code>
+<floor>5</floor>
+</item>
+<item>
+<price> 25,000</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 동숭동</dong>
+<apt>동성apt(1동)</apt>
+<month>12</month>
+<day>6</day>
+<area>57.96</area>
+<landnum>4-161</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 68,500</price>
+<built>2006</built>
+<year>2019</year>
+<dong> 명륜1가</dong>
+<apt>건양하늘터</apt>
+<month>12</month>
+<day>13</day>
+<area>84.78</area>
+<landnum>23</landnum>
+<code>11110</code>
+<floor>7</floor>
+</item>
+<item>
+<price> 87,500</price>
+<built>1995</built>
+<year>2019</year>
+<dong> 명륜2가</dong>
+<apt>아남1</apt>
+<month>12</month>
+<day>3</day>
+<area>84.9</area>
+<landnum>4</landnum>
+<code>11110</code>
+<floor>7</floor>
+</item>
+<item>
+<price> 87,500</price>
+<built>1995</built>
+<year>2019</year>
+<dong> 명륜2가</dong>
+<apt>아남1</apt>
+<month>12</month>
+<day>8</day>
+<area>84.9</area>
+<landnum>4</landnum>
+<code>11110</code>
+<floor>5</floor>
+</item>
+<item>
+<price> 90,000</price>
+<built>1995</built>
+<year>2019</year>
+<dong> 명륜2가</dong>
+<apt>아남1</apt>
+<month>12</month>
+<day>8</day>
+<area>84.8</area>
+<landnum>4</landnum>
+<code>11110</code>
+<floor>16</floor>
+</item>
+<item>
+<price> 91,000</price>
+<built>1995</built>
+<year>2019</year>
+<dong> 명륜2가</dong>
+<apt>아남1</apt>
+<month>12</month>
+<day>10</day>
+<area>84.9</area>
+<landnum>4</landnum>
+<code>11110</code>
+<floor>16</floor>
+</item>
+<item>
+<price> 86,500</price>
+<built>1995</built>
+<year>2019</year>
+<dong> 명륜2가</dong>
+<apt>아남1</apt>
+<month>12</month>
+<day>12</day>
+<area>84.9</area>
+<landnum>4</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+<item>
+<price> 87,000</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>두산</apt>
+<month>12</month>
+<day>6</day>
+<area>84.9</area>
+<landnum>232</landnum>
+<code>11110</code>
+<floor>13</floor>
+</item>
+<item>
+<price> 59,500</price>
+<built>1992</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용1</apt>
+<month>12</month>
+<day>9</day>
+<area>79.87</area>
+<landnum>702</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 55,000</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>13</day>
+<area>79.87</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>8</floor>
+</item>
+<item>
+<price> 82,000</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>두산</apt>
+<month>12</month>
+<day>13</day>
+<area>84.9</area>
+<landnum>232</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 49,900</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>14</day>
+<area>64.66</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>10</floor>
+</item>
+<item>
+<price> 89,900</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>두산</apt>
+<month>12</month>
+<day>14</day>
+<area>84.9</area>
+<landnum>232</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 50,000</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>16</day>
+<area>64.66</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 60,000</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>18</day>
+<area>115.53</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 62,000</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>두산</apt>
+<month>12</month>
+<day>18</day>
+<area>59.95</area>
+<landnum>232</landnum>
+<code>11110</code>
+<floor>23</floor>
+</item>
+<item>
+<price> 49,500</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>18</day>
+<area>64.66</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>10</floor>
+</item>
+<item>
+<price> 44,700</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>21</day>
+<area>64.66</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>2</floor>
+</item>
+<item>
+<price> 25,500</price>
+<built>1999</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>덕산</apt>
+<month>12</month>
+<day>21</day>
+<area>59.28</area>
+<landnum>639-50</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+<item>
+<price> 43,800</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>21</day>
+<area>54.7</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>5</floor>
+</item>
+<item>
+<price> 55,900</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>22</day>
+<area>79.87</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>8</floor>
+</item>
+<item>
+<price> 70,000</price>
+<built>1992</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용1</apt>
+<month>12</month>
+<day>23</day>
+<area>106.62</area>
+<landnum>702</landnum>
+<code>11110</code>
+<floor>13</floor>
+</item>
+<item>
+<price> 56,700</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>25</day>
+<area>79.87</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>6</floor>
+</item>
+<item>
+<price> 55,800</price>
+<built>1993</built>
+<year>2019</year>
+<dong> 창신동</dong>
+<apt>창신쌍용2</apt>
+<month>12</month>
+<day>27</day>
+<area>79.87</area>
+<landnum>703</landnum>
+<code>11110</code>
+<floor>9</floor>
+</item>
+<item>
+<price> 11,700</price>
+<built>2014</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>숭인한양LEEPS</apt>
+<month>12</month>
+<day>2</day>
+<area>12.78</area>
+<landnum>1421-2</landnum>
+<code>11110</code>
+<floor>4</floor>
+</item>
+<item>
+<price> 62,400</price>
+<built>2009</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로청계힐스테이트</apt>
+<month>12</month>
+<day>6</day>
+<area>59.9426</area>
+<landnum>766</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 69,500</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로센트레빌</apt>
+<month>12</month>
+<day>7</day>
+<area>59.92</area>
+<landnum>2-1</landnum>
+<code>11110</code>
+<floor>6</floor>
+</item>
+<item>
+<price> 80,000</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로센트레빌</apt>
+<month>12</month>
+<day>7</day>
+<area>84.92</area>
+<landnum>2-1</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+<item>
+<price> 13,000</price>
+<built>2013</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로중흥S클래스</apt>
+<month>12</month>
+<day>13</day>
+<area>17.811</area>
+<landnum>202-3</landnum>
+<code>11110</code>
+<floor>15</floor>
+</item>
+<item>
+<price> 80,000</price>
+<built>2004</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>롯데캐슬천지인</apt>
+<month>12</month>
+<day>14</day>
+<area>84.95</area>
+<landnum>76</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 80,000</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로센트레빌</apt>
+<month>12</month>
+<day>17</day>
+<area>84.92</area>
+<landnum>2-1</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+<item>
+<price> 11,700</price>
+<built>2012</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>삼전솔하임2차</apt>
+<month>12</month>
+<day>20</day>
+<area>14.69</area>
+<landnum>296-19</landnum>
+<code>11110</code>
+<floor>6</floor>
+</item>
+<item>
+<price> 66,500</price>
+<built>2009</built>
+<year>2019</year>
+<dong> 숭인동</dong>
+<apt>종로청계힐스테이트</apt>
+<month>12</month>
+<day>23</day>
+<area>59.9426</area>
+<landnum>766</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+<item>
+<price> 65,800</price>
+<built>2008</built>
+<year>2019</year>
+<dong>숭인동</dong>
+<apt>종로센트레빌</apt>
+<month>12</month>
+<day>27</day>
+<area>59.92</area>
+<landnum>2-1</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 129,000</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 평동</dong>
+<apt>경희궁자이(3단지)</apt>
+<month>12</month>
+<day>5</day>
+<area>59.755</area>
+<landnum>233</landnum>
+<code>11110</code>
+<floor>7</floor>
+</item>
+<item>
+<price> 166,500</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 평동</dong>
+<apt>경희궁자이(3단지)</apt>
+<month>12</month>
+<day>21</day>
+<area>84.836</area>
+<landnum>233</landnum>
+<code>11110</code>
+<floor>4</floor>
+</item>
+<item>
+<price> 150,000</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 홍파동</dong>
+<apt>경희궁자이(2단지)</apt>
+<month>12</month>
+<day>4</day>
+<area>84.944</area>
+<landnum>199</landnum>
+<code>11110</code>
+<floor>1</floor>
+</item>
+<item>
+<price> 160,500</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 홍파동</dong>
+<apt>경희궁자이(2단지)</apt>
+<month>12</month>
+<day>7</day>
+<area>84.614</area>
+<landnum>199</landnum>
+<code>11110</code>
+<floor>2</floor>
+</item>
+<item>
+<price> 169,000</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 홍파동</dong>
+<apt>경희궁자이(2단지)</apt>
+<month>12</month>
+<day>7</day>
+<area>84.836</area>
+<landnum>199</landnum>
+<code>11110</code>
+<floor>7</floor>
+</item>
+<item>
+<price> 98,000</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 교북동</dong>
+<apt>경희궁자이(4단지)</apt>
+<month>12</month>
+<day>21</day>
+<area>45.879</area>
+<landnum>126</landnum>
+<code>11110</code>
+<floor>8</floor>
+</item>
+<item>
+<price> 98,000</price>
+<built>2017</built>
+<year>2019</year>
+<dong> 교북동</dong>
+<apt>경희궁자이(4단지)</apt>
+<month>12</month>
+<day>22</day>
+<area>45.879</area>
+<landnum>126</landnum>
+<code>11110</code>
+<floor>8</floor>
+</item>
+<item>
+<price> 50,000</price>
+<built>1998</built>
+<year>2019</year>
+<dong> 평창동</dong>
+<apt>삼성</apt>
+<month>12</month>
+<day>14</day>
+<area>84.93</area>
+<landnum>596</landnum>
+<code>11110</code>
+<floor>4</floor>
+</item>
+<item>
+<price> 97,000</price>
+<built>2009</built>
+<year>2019</year>
+<dong> 평창동</dong>
+<apt>엘리시아</apt>
+<month>12</month>
+<day>23</day>
+<area>206.22</area>
+<landnum>66-1</landnum>
+<code>11110</code>
+<floor>2</floor>
+</item>
+<item>
+<price> 38,700</price>
+<built>1998</built>
+<year>2019</year>
+<dong> 평창동</dong>
+<apt>삼성</apt>
+<month>12</month>
+<day>28</day>
+<area>59.97</area>
+<landnum>596</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 25,000</price>
+<built>1997</built>
+<year>2019</year>
+<dong> 평창동</dong>
+<apt>갑을</apt>
+<month>12</month>
+<day>31</day>
+<area>64.88</area>
+<landnum>595</landnum>
+<code>11110</code>
+<floor>11</floor>
+</item>
+<item>
+<price> 84,960</price>
+<built>2000</built>
+<year>2019</year>
+<dong> 무악동</dong>
+<apt>현대</apt>
+<month>12</month>
+<day>3</day>
+<area>84.92</area>
+<landnum>82</landnum>
+<code>11110</code>
+<floor>2</floor>
+</item>
+<item>
+<price> 130,000</price>
+<built>2008</built>
+<year>2019</year>
+<dong> 무악동</dong>
+<apt>인왕산아이파크</apt>
+<month>12</month>
+<day>28</day>
+<area>114.931</area>
+<landnum>60</landnum>
+<code>11110</code>
+<floor>3</floor>
+</item>
+</items>
